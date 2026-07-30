@@ -1,0 +1,10 @@
+﻿claim,paper_value,source,status
+Static violation,33.7545% vs 41.5839%; 18.83% relative reduction,figure4_source_data.csv,verified
+Static p99,92.675 ms vs 139.176 ms; 33.41% relative reduction,figure4_source_data.csv,verified
+Dynamic violation,31.3171% vs 34.7963%; 10.00% relative reduction,figure5_source_data.csv,verified
+Dynamic p99,95.842 ms vs 105.009 ms; 8.73% relative reduction,figure5_source_data.csv,verified
+Energy budget,0.101874/0.098727 J per request < 0.109587 budget,figure4/figure5 source data + config,verified
+Training stability,Not established; one training seed only,final config,not claimed
+Gate mechanism,arrival corr 0.839; queue-gate corr 0.929,gate statistics CSV,verified
+Independent SLA-dual ablation,Not available under the main 60-s protocol,ablation audit,limitation
+Independent tail-surrogate ablation,Not available under the main 60-s protocol,ablation audit,limitation

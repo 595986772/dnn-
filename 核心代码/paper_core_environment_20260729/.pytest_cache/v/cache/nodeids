@@ -1,0 +1,8 @@
+[
+  "code/tests/test_deployment_uplink.py::test_common_random_numbers_do_not_depend_on_method",
+  "code/tests/test_deployment_uplink.py::test_default_uplink_delay_is_in_requested_range",
+  "code/tests/test_deployment_uplink.py::test_jpeg_sizes_are_used_when_available",
+  "code/tests/test_deployment_uplink.py::test_profiles_have_ordered_upload_delays",
+  "code/tests/test_deployment_uplink.py::test_total_latency_uses_original_deadline",
+  "code/tests/test_deployment_uplink.py::test_uplink_is_disabled_by_default"
+]
